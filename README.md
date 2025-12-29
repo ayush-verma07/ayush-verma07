@@ -17,5 +17,5 @@
 ## Favorite Quote
 **(subject to _change_)**
 
-This is a quote my CS 18000 professor, Jeff Turkstra, shared with the class on our very first day (which just so happened to be my first day of college). This quote just stuck with me throughout the course and my first semester. This quote may seem programming-related, and I suppose it is, but that isn't why it stuck with me. It stuck with me because it shows how quick humans are to blame the tools we developed. If we want it to work, maybe we should begin to work first. Thank you Professor Turkstra for sharing this with us and to Tom Gibb for saying it first.
+This is a quote my CS 18000 professor, Jeff Turkstra, shared with the class on our very first day (which just so happened to be my first day of college). This quote just stuck with me throughout the course and my first semester. This quote may seem programming-related, and I suppose it is, but that isn't why it stuck with me. It stuck with me because it shows how quick humans are to blame the tools we developed. If we want it to work, maybe we should design it to work first. Thank you Professor Turkstra for sharing this with us and to Tom Gibb for saying it first.
 > "At the source of every error which is blamed on the computer you will find at least two human errors, including the error of blaming it on the computer". 
