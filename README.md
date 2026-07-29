@@ -2,8 +2,8 @@
 ## Computer Science Major @Purdue
 - 🚂 A Boilermaker that is willing to do whatever it takes to succeed!
 - 🤖 Passionate about the Artifical Intelligence & Data industry
-- ⌨️ I’m currently learning about Programming in C & Discrete Mathematics
-- 💻 I've completed extensive work in Java, Swift, R, HTML/CSS, & JS.
+- ⌨️ I’m currently learning about DSA & Computer Architecture
+- 💻 I've completed extensive work in Java, Python, JS, Swift, R, React, HTML/CSS.
 - 🤔 My other interests include political science, finance, international soccer, American football, and tennis.
 
 ## Contact Me
