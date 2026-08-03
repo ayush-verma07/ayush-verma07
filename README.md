@@ -1,8 +1,8 @@
 # Ayush Verma
 ## Computer Science Major @Purdue
-- 🚂 A Boilermaker that is willing to do whatever it takes to succeed!
+- 🚂 A Boilermaker that is willing to learn and develop strong industry skills.
 - 🤖 Passionate about the Artifical Intelligence & Data industry
-- ⌨️ I’m currently learning about DSA & Computer Architecture
+- ⌨️ I’m currently learning about Data Structures & Computer Architecture
 - 💻 I've completed extensive work in Java, Python, JS, Swift, R, React, HTML/CSS.
 - 🤔 My other interests include political science, finance, international soccer, American football, and tennis.
 
